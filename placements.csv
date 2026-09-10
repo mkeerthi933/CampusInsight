@@ -1,0 +1,6 @@
+Student ID,Name,Department,CGPA,Placement Status,Company,Package
+C001,Asha,CSE,8.9,Placed,Infosys,6.5
+C002,Rahul,CSE,7.8,Placed,TCS,5.2
+C003,Priya,CSD,8.5,Not Placed,-,0
+C004,Arjun,CSD,6.9,Not Placed,-,0
+C005,Sneha,CSE,9.1,Placed,Accenture,7.0
